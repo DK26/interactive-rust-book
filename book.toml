@@ -1,0 +1,6 @@
+[book]
+authors = ["David Krasnitsky"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Alex Protocol: An Interactive Way to Learn Rust"
